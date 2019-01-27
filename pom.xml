@@ -11,6 +11,7 @@
     <modules>
         <module>serialization</module>
         <module>rmi</module>
+        <module>zkapi</module>
     </modules>
 
     <dependencies>
